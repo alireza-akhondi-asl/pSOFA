@@ -1,12 +1,13 @@
 Package: pSOFA
 Type: Package
-Title: What the Package Does (Title Case)
+Title: pSOFA score calculation
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Alireza Akhondi-ASl
+Maintainer: The package maintainer <a.akhundi@gmail.com>
+Description: An automated method for calculating the pSOFA score. Based on [1] 
+[1] Matics, T.J. and Sanchez-Pinto, L.N., 2017. Adaptation and validation of a pediatric sequential organ failure assessment score and evaluation of the sepsis-3 definitions in critically ill children. JAMA pediatrics, 171(10), pp.e172352-e172352.
+
+License: 
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.2.3
